@@ -42,4 +42,4 @@ TODO: Replace the image below with your own.
 ![model_test_score.png](model_test_score.png)
 
 ## Summary
-TODO: We have found that the Weighted Ensemble was the model that performed best in our context, and that feature engineering was crucial in obtaining a better performance. Hyperparameter optimization did not increase the performance, even after 3 different choices of parameters.
+TODO: We have found that the Weighted Ensemble was the model that performed best in our context, and that feature engineering was crucial in obtaining a better performance. The first hyperparameter optimization slightly increased the kaggle score, but making further changes didn't seem to be very effective.
