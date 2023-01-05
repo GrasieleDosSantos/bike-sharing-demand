@@ -33,13 +33,13 @@ TODO: Probably in the EDA and feature engineering.
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 TODO: We have found that the Weighted Ensemble was the model that performed best in our context, and that feature engineering was crucial in obtaining a better performance. Hyperparameter optimization did not increase the performance, even after 3 different choices of parameters.
